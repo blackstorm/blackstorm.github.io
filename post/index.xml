@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Leehaoya&#39;s blog</title>
-    <link>http://example.org/post/</link>
+    <link>https://blog.leehaoya.com/post/</link>
     <description>Recent content in Posts on Leehaoya&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Jul 2018 13:54:04 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.leehaoya.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello Hugo</title>
-      <link>http://example.org/post/hello-hugo/</link>
+      <link>https://blog.leehaoya.com/post/hello-hugo/</link>
       <pubDate>Wed, 25 Jul 2018 13:54:04 +0800</pubDate>
       
-      <guid>http://example.org/post/hello-hugo/</guid>
+      <guid>https://blog.leehaoya.com/post/hello-hugo/</guid>
       <description>Hello hugo!</description>
     </item>
     
