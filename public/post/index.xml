@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Leehaoya&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Jul 2018 12:31:39 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jul 2018 13:54:04 +0800</lastBuildDate>
     
 	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>Hello Hugo</title>
       <link>http://example.org/post/hello-hugo/</link>
-      <pubDate>Wed, 25 Jul 2018 12:31:39 +0800</pubDate>
+      <pubDate>Wed, 25 Jul 2018 13:54:04 +0800</pubDate>
       
       <guid>http://example.org/post/hello-hugo/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;</description>
+      <description>Hello hugo!</description>
     </item>
     
   </channel>
